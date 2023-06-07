@@ -1,0 +1,14 @@
+# BLASTP 2.14.0+
+# Query: NP_689854.2 AT-rich interactive domain-containing protein 2 isoform 1 [Homo sapiens]
+# Database: /mnt/storage/project_2023/proteomes/ciliate.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 8 hits found
+NP_689854.2	XP_001023719.2	38.095	105	65	0	11	115	2	106	1.77e-16	85.5
+NP_689854.2	XP_001033064.2	27.119	59	43	0	20	78	32	90	0.72	35.0
+NP_689854.2	XP_001016623.3	28.125	96	60	3	711	806	418	504	0.82	35.0
+NP_689854.2	XP_001021437.2	26.724	116	84	1	884	999	219	333	1.5	33.5
+NP_689854.2	XP_001012324.1	33.871	62	31	2	1346	1407	90	141	3.1	32.3
+NP_689854.2	XP_001018800.1	25.000	76	53	2	1618	1692	796	868	3.3	32.7
+NP_689854.2	XP_001015676.1	22.414	116	69	4	902	998	9	122	7.9	31.2
+NP_689854.2	XP_001015676.1	27.273	99	62	4	811	904	5	98	9.1	31.2
+# BLAST processed 1 queries

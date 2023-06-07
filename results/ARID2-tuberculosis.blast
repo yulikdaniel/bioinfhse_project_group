@@ -1,0 +1,12 @@
+# BLASTP 2.14.0+
+# Query: NP_689854.2 AT-rich interactive domain-containing protein 2 isoform 1 [Homo sapiens]
+# Database: /mnt/storage/project_2023/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+NP_689854.2	NP_214919.1	30.909	55	38	0	1031	1085	425	479	0.61	31.6
+NP_689854.2	NP_215689.1	45.714	35	19	0	318	352	647	681	0.78	31.2
+NP_689854.2	NP_215337.1	28.070	114	76	3	873	981	565	677	4.0	28.9
+NP_689854.2	NP_214728.1	26.471	68	45	1	69	131	328	395	6.9	28.1
+NP_689854.2	NP_215989.1	36.111	36	21	1	363	398	80	113	8.7	27.7
+NP_689854.2	NP_214889.1	35.714	42	26	1	873	914	188	228	9.1	27.3
+# BLAST processed 1 queries

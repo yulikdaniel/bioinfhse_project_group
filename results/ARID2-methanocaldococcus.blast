@@ -1,0 +1,12 @@
+# BLASTP 2.14.0+
+# Query: NP_689854.2 AT-rich interactive domain-containing protein 2 isoform 1 [Homo sapiens]
+# Database: /mnt/storage/project_2023/proteomes/methanocaldococcus.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+NP_689854.2	WP_015791335.1	23.077	78	60	0	172	249	122	199	0.17	31.6
+NP_689854.2	WP_015791303.1	24.812	133	76	6	401	522	122	241	2.5	27.7
+NP_689854.2	WP_015791868.1	27.083	48	35	0	689	736	153	200	3.0	27.7
+NP_689854.2	WP_015791755.1	45.714	35	13	1	409	443	47	75	3.6	26.6
+NP_689854.2	WP_012795031.1	26.829	41	30	0	607	647	120	160	8.7	26.2
+NP_689854.2	WP_015791107.1	43.750	32	15	1	1788	1819	146	174	9.0	26.2
+# BLAST processed 1 queries

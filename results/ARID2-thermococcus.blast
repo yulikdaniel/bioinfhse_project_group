@@ -1,0 +1,14 @@
+# BLASTP 2.14.0+
+# Query: NP_689854.2 AT-rich interactive domain-containing protein 2 isoform 1 [Homo sapiens]
+# Database: /mnt/storage/project_2023/proteomes/thermococcus.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 8 hits found
+NP_689854.2	WP_011250559.1	31.579	38	26	0	1093	1130	104	141	0.35	30.8
+NP_689854.2	WP_011249916.1	32.432	37	19	1	7	37	17	53	1.6	26.9
+NP_689854.2	WP_052273633.1	28.125	64	38	1	1291	1354	246	301	2.5	28.5
+NP_689854.2	WP_011249666.1	20.968	62	49	0	1150	1211	1	62	2.7	26.2
+NP_689854.2	WP_011249267.1	35.135	37	24	0	1332	1368	109	145	5.0	27.3
+NP_689854.2	WP_011250355.1	36.170	47	27	1	4	50	52	95	6.4	26.6
+NP_689854.2	WP_011250396.1	36.957	46	29	0	190	235	28	73	6.9	26.9
+NP_689854.2	WP_011250653.1	31.579	38	25	1	1198	1235	93	129	8.1	26.6
+# BLAST processed 1 queries
