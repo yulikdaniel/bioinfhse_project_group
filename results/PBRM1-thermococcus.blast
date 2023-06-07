@@ -1,0 +1,12 @@
+# BLASTP 2.14.0+
+# Query: ENST00000409114.7 (PBRM1) length=1652
+# Database: Downloads/data/proteomes/thermococcus.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+ENST00000409114.7	WP_011251097.1	30.137	73	47	3	1236	1306	63	133	1.1	29.6
+ENST00000409114.7	WP_011250185.1	45.000	40	11	2	1185	1220	13	45	2.0	26.9
+ENST00000409114.7	WP_011250525.1	24.194	62	45	1	1497	1558	74	133	3.0	28.1
+ENST00000409114.7	WP_232500588.1	23.364	107	82	0	1311	1417	37	143	5.5	27.3
+ENST00000409114.7	WP_011250675.1	45.833	24	13	0	1557	1580	188	211	6.5	26.9
+ENST00000409114.7	WP_011249966.1	36.111	36	23	0	1184	1219	616	651	8.7	26.6
+# BLAST processed 1 queries

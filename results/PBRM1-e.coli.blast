@@ -1,0 +1,11 @@
+# BLASTP 2.14.0+
+# Query: ENST00000409114.7 (PBRM1) length=1652
+# Database: Downloads/data/proteomes/e.coli.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+ENST00000409114.7	NP_418624.1	43.750	32	18	0	1305	1336	25	56	0.33	30.8
+ENST00000409114.7	NP_415166.1	30.137	73	48	2	1515	1585	229	300	1.2	30.4
+ENST00000409114.7	NP_417524.1	24.476	143	88	3	788	930	55	177	3.0	28.9
+ENST00000409114.7	NP_414979.1	27.586	58	37	2	407	463	394	447	4.2	28.5
+ENST00000409114.7	NP_415792.1	35.897	39	23	2	578	615	120	157	9.2	27.7
+# BLAST processed 1 queries
